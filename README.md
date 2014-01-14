@@ -1,25 +1,35 @@
-Project Guidelines
+# Project Guidelines
 
-Overview
+This is a set of guidelines for Code Club projects. Code Club is a network of volunteer leg after school clubs for children.
 
-- Projects should in general take an hour long
+## Format
+
+- Introductory projects should take less than an hour to build something
+- Each activity should be broken down into steps, each with checklists
+- There should be both suggestions and challenges as well as the normal work
+
+## Style
+
+- Projects should be seperated by ability, not by age
+- We shouldn't have gendered projects.
+- Each project should be suitable for all learners, including those with learning disabilities or special needs.
+
+## Language
+
+- Avoid slang, as well as technical jargon.
+- It is useful to introduce *some* technical jargon though.
+
+## Requirements and Preparation
+
 - Setup and Preparation should be minimal per project
-
-Requirements and Preparation
-
 - Minimal installation and software dependencies
 - Avoid per project resources if possible
 
-Pedagogy
+## Pedagogy
 
 - Introduce one idea at a time, perferably one per project
 - Repeat these ideas in subsequent projects, but with less detail and explanation
 - Provide plenty of points for experimentation and exploration in the projects.
-
-Format
-
-- Each activity should be broken down into steps, each with checklists
-- There should be both suggestions and challenges as well as the normal work
 - Suggestions are of the form "Try changing X to see what happens"
 - Challenges are "What would you have to change to get X to happen" or similar
 - Suggestions generally come at the end of a step within a project
