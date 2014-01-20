@@ -12,7 +12,9 @@ This is a set of guidelines for Code Club projects. Code Club is a network of vo
 
 - Projects should be seperated by ability, not by age
 - We shouldn't have gendered projects.
+- We should reinforce the idea that coding is an ability, not a gift. It comes from working, not from talent.
 - Each project should be suitable for all learners, including those with learning disabilities or special needs.
+- We shouldn't have any exclusionary language, including racist, sexist, or homophobic language. 
 
 ## Language
 
