@@ -20,6 +20,7 @@ This is a set of guidelines for Code Club projects. Code Club is a network of vo
 
 - Avoid slang, as well as technical jargon.
 - It is useful to introduce *some* technical jargon though.
+- Keep the language level simple enough for 9-year-olds. If you can, run the project by a primary school teacher to check for vocabulary and sentence complexity.
 
 ## Requirements and preparation
 
