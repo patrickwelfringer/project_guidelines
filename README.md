@@ -1,6 +1,6 @@
-# Project guidelines
+# Project Guidelines
 
-This is a set of guidelines for Code Club projects. Code Club is a network of volunteer-led after-school coding clubs for children.
+This is a set of guidelines for Code Club projects. Code Club is a network of volunteer leg after school clubs for children.
 
 ## Format
 
@@ -20,10 +20,11 @@ This is a set of guidelines for Code Club projects. Code Club is a network of vo
 
 - Avoid slang, as well as technical jargon.
 - It is useful to introduce *some* technical jargon though.
+- Keep the language level simple enough for 9 year olds. If you can, run the project by a primary school teacher to check for vocabulary and sentence complexity.
 
-## Requirements and preparation
+## Requirements and Preparation
 
-- Setup and preparation should be minimal per project
+- Setup and Preparation should be minimal per project
 - Minimal installation and software dependencies
 - Avoid per project resources if possible
 
@@ -35,5 +36,5 @@ This is a set of guidelines for Code Club projects. Code Club is a network of vo
 - Suggestions are of the form "Try changing X to see what happens"
 - Challenges are "What would you have to change to get X to happen" or similar
 - Suggestions generally come at the end of a step within a project
-- Challenges generally come at the end of a project
+- Challenges generally come at the end of a Project
 
